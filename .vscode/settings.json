@@ -1,0 +1,5 @@
+{
+    "python.linting.enabled": false,
+    "python.linting.lintOnSave": true,
+    "python.linting.mypyEnabled": true
+}
